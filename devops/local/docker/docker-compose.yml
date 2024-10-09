@@ -251,7 +251,7 @@ services:
     image: systementry-3961
     container_name: systementry-3961
     ports: 
-      - 8158:8158
+      - 8160:8160
     env_file: .env
     depends_on:
       - mongo
@@ -272,7 +272,7 @@ services:
     image: testfeature-3961
     container_name: testfeature-3961
     ports: 
-      - 8159:8159
+      - 8161:8161
     env_file: .env
     depends_on:
       - mongo
