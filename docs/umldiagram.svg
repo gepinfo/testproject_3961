@@ -1,0 +1,50 @@
+<svg version="1.1" baseProfile="full" width="334.0" height="261.0" viewbox="0 0 334 261" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<desc >#.interface: fill=lightblue
+#.enumeration: fill=lightgreen
+#.type: fill=lightgray
+[&lt;interface&gt;test|+created_date: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date: { type: Date; };+name: { type: String; }|]</desc>
+<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+<g font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+<g stroke="transparent" fill="transparent">
+<rect x="0.0" y="0.0" height="261.0" width="334.0" stroke="none"></rect>
+</g>
+<g transform="translate(8, 8)" fill="#33322E">
+<g transform="translate(20, 20)">
+<g data-name="test">
+<g fill="lightblue" stroke="#33322E" data-name="test">
+<rect x="0.0" y="0.0" height="205.0" width="278.0" data-name="test"></rect>
+<path d="M0.0 31.0 L278.0 31.0" fill="none" data-name="test"></path>
+<path d="M0.0 197.0 L278.0 197.0" fill="none" data-name="test"></path>
+</g>
+<g transform="translate(0, 0)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="test">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="test">
+<a id="../application/services/diagrams/serviceModels/test.ts.test" xlink:href="../application/services/diagrams/serviceModels/test.ts"><text x="131.0" y="13.5" stroke="none" text-anchor="middle" data-name="test">test</text></a>
+
+</g>
+</g>
+<g transform="translate(0, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="test">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="test">
+<text x="0.0" y="13.5" stroke="none" data-name="test">+created_date: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="test">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="test">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="test">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="test">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="test">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="test">+last_modified_date: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="test">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="test">+name: { type: String</text>
+<text x="0.0" y="148.5" stroke="none" data-name="test">}</text>
+
+</g>
+</g>
+<g transform="translate(0, 197)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="test">
+<g transform="translate(8, 8)" fill="#33322E" data-name="test">
+
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
